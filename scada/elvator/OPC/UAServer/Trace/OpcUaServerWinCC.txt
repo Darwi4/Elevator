@@ -1,0 +1,21 @@
+19:08:35.348  1AE4 UaLibrary    -   * CServer::dispatch_notification_event - Missing license
+19:13:22.547  1AE4 UaSrvWinCC - ERROR: CRTIBase::GetWinCCProjectState: no runtime project was found, hr=0x80004005
+
+19:13:22.673  1AE4 UaLibrary    -   * CServer::dispatch_notification_event - Missing license
+20:00:28.867  1AE4 UaSrvWinCC - ERROR: CRTIBase::GetWinCCProjectState: no runtime project was found, hr=0x80004005
+
+20:00:29.012  1AE4 UaLibrary    -   * CServer::dispatch_notification_event - Missing license
+20:04:00.787  1ADC UaLibrary    -   * CServer::dispatch_notification_event - Missing license
+20:35:15.202  1AE4 UaLibrary    -   * CServer::dispatch_notification_event - Missing license
+20:35:46.767  1ADC UaSrvWinCC - ERROR: CRTIBase::GetWinCCProjectState: no runtime project was found, hr=0x80004005
+
+20:35:46.767  1ADC UaLibrary    -   * CServer::dispatch_notification_event - Missing license
+20:40:03.479  1AE4 UaSrvWinCC - ERROR: CRTIBase::GetWinCCProjectState: no runtime project was found, hr=0x80004005
+
+20:40:03.511  1AE4 UaLibrary    -   * CServer::dispatch_notification_event - Missing license
+20:52:08.158  1AE4 UaSrvWinCC - ERROR: CRTIBase::GetWinCCProjectState: no runtime project was found, hr=0x80004005
+
+20:52:08.299  1AE4 UaLibrary    -   * CServer::dispatch_notification_event - Missing license
+14:13:27.119  1ADC UaSrvWinCC - ERROR: CRTIBase::GetWinCCProjectState: no runtime project was found, hr=0x80004005
+
+14:13:27.120  1ADC UaLibrary    -   * CServer::dispatch_notification_event - Missing license
